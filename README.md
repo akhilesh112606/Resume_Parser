@@ -54,3 +54,6 @@ Welcome to **Resume Parser**, a powerful web application designed to help job se
 ---
 
   ![screencapture-127-0-0-1-5000-2025-02-19-22_53_08](https://github.com/user-attachments/assets/d0435cf9-385a-4383-93ff-0b89d0e19ee3)
+
+  ![screencapture-127-0-0-1-5000-resume-analyze-2025-02-19-23_35_14](https://github.com/user-attachments/assets/c8c315d0-9c86-4451-ae8c-184f266c633b)
+
